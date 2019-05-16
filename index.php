@@ -1,7 +1,7 @@
 <?php
 include_once "header.php";
-if(!empty($_GET["page"]) && file_exists($_GET["page"].".php")) {
-	include_once $_GET["page"].".php";
+if(!empty($_GET["p"]) && file_exists($_GET["p"].".php")) {
+	include_once $_GET["p"].".php";
 } else {
 	include_once "default.php";
 }

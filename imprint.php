@@ -1,0 +1,8 @@
+<h1 class="display-4">Impressum</h1>
+<p>Angaben gemäß § 5 TMG</p>
+<p>Max Muster<br>Musterweg<br>12345 Musterstadt<br></p>
+<p><strong>Vertreten durch:</strong><br>Max Muster<br></p>
+<p><strong>Kontakt:</strong><br>Telefon: 01234-789456<br>Fax: 1234-56789<br>E-Mail: <a href='mailto:max@muster.de'>max@muster.de</a><br></p>
+<p><strong>Umsatzsteuer-ID:</strong><br>Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: Musterustid.<br><br><strong>Wirtschafts-ID:</strong><br>Musterwirtschaftsid<br></p>
+<p><strong>Aufsichtsbehörde:</strong><br>Musteraufsicht Musterstadt<br></p>
+<p><strong>Haftungsausschluss: </strong><br><br><strong>Haftung für Links</strong><br><br>Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.</p>
