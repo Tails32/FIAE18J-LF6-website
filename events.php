@@ -1,0 +1,2 @@
+<h1 class="display-4">Veranstaltungen</h1>
+<p class="lead">Auf dem Gelände des Expo Plazas finden regelmäßig Ausstellungen und andere Arten von Veranstaltungen statt. In Kürze finden sie an dieser Stelle eine Terminübersicht.</p>
